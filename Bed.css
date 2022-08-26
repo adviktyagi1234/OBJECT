@@ -1,0 +1,30 @@
+body
+{
+  background-size: cover;
+}
+
+h3
+{
+    background-color: aquamarine;
+    margin-top: 0px;
+    height: 12%;
+    font-size: 80px;
+    text-align: center;
+}
+
+#he
+{
+   margin-top: 15px;
+   margin-left: 250px;
+}
+
+label
+{
+    margin-top: 25px;
+}
+
+#buttonback1
+{
+    margin-top: 10px;
+    margin-right: 10px;
+}
